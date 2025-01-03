@@ -1,13 +1,12 @@
 package MYFirst;
 
-public class Basic {
+public class BaseBranch {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
- 
+   
+		System.out.println("Branch final");
 		
-		System.out.println("Edit from remote");
-		System.out.println("push to remote");
 	}
 
 }
